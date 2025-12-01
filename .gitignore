@@ -1,0 +1,22 @@
+# Node / JS
+node_modules/
+**/node_modules/
+npm-debug.log
+package-lock.json
+
+# Python venv
+venv/
+**/venv/
+Lib/
+Scripts/
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+Thumbs.db
+
+# Large models / data (إذا عندك)
+face_recognition_models/
+face_recognition_models-master/
+faces/
